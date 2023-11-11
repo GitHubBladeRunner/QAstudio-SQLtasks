@@ -1,0 +1,3 @@
+SELECT DISTINCT position_name, Salary FROM positions
+WHERE Salary BETWEEN 1500 AND 2200
+ORDER BY Salary DESC

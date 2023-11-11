@@ -1,0 +1,2 @@
+SELECT DISTINCT City FROM Staff 
+WHERE City LIKE '%k%'
